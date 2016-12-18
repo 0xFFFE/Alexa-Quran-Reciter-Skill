@@ -1,0 +1,23 @@
+{
+  "name": "Alexa-Quran-Reciter-Skill",
+  "version": "1.0.0",
+  "description": "Alexa Skill to Recite Chapters from the Holy Quran",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio player"
+  ],
+  "author": "Saw",
+  "license": "See license in ../LICENSE.txt",
+  "dependencies": {
+    "alexa-sdk": "^1.0.4"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/amersaw/Alexa-Quran-Reciter-Skill"
+  }
+}
