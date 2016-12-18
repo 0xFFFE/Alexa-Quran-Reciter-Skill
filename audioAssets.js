@@ -6,7 +6,6 @@ var audioData = [
     {
         'title' : 'Al-Baqarah - 31',
 		'url' : 'https://verses.quran.com/Sudais/mp3/002031.mp3'
-        'url' : 'https://akeed.onl/092.mp3'
     },
     {
         'title' : 'Al-Baqarah - 32',
